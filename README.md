@@ -16,3 +16,7 @@ This Repository contains my notes and the quizzes I learned and attended from th
 -> Different Fields Of AI.
 -> AI Development Process.
 -> Machine Learning Types and Algorithms.
+
+
+##AUTHOR
+Dikshita Sarkar
